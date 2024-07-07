@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tavN5WNqwtyKemjkIYfBQBVEhKZ2WemGyIfXT9Ds4vbNtuK+U67+mjn+QoiLBg8DOTISbnCnW9cbcI0ZGPVAxg==",
+  "success": true,
+  "projectFilePath": "/Users/peytonhaws/Documents/AppliedProgramming/PongGame/PongGame/PongGame.csproj",
+  "expectedPackageFiles": [
+    "/Users/peytonhaws/.nuget/packages/monogame.framework.desktopgl/3.8.1.303/monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
